@@ -14,7 +14,7 @@ Seizure prediction is a critical area of research that aims to improve the quali
 
 
 ## Mindwave Neurosky
-![YaDV Architecture](https://www.researchgate.net/profile/Kishore-Kashyap/publication/335799153/figure/fig1/AS:802856919654400@1568427414660/Neurosky-MindWave-Mobile-EEG-Headset-It-resides-five-main-parts-namely-Rubber-sensor.jpg)
+![Neurosky]([https://www.researchgate.net/profile/Kishore-Kashyap/publication/335799153/figure/fig1/AS:802856919654400@1568427414660/Neurosky-MindWave-Mobile-EEG-Headset-It-resides-five-main-parts-namely-Rubber-sensor.jpg](https://github.com/prahalad12345/Electroencephalogram-Seizure-Predictor/blob/main/image/Neurosky-MindWave-Mobile-device.ppm.png))
 
 
 ## Core Capabilities
