@@ -5,36 +5,17 @@
 ## Glossary
 | Term      | Description |
 | ----------- | ----------- |
-| Radiology      | Radiology is a branch of medicine that uses imaging technology to diagnose and treat disease |
-| Radiologists   | Radiologist are medical doctors that specialize in diagnosing and treating injuries and diseases using medical imaging (radiology) procedures (exams/tests) such as X-rays, computed tomography (CT), ultrasound etc.|
-| PACS | **P**icture **A**rchiving and **C**ommunication **S**ystem: PACS is a high-speed, graphical, computer network system for the storage, recovery, and display of radiologic images|
-| HL7 | **H**ealth **L**evel Seven International : HL7 is a set of international standards used to transfer and share data between various healthcare providers |
-| DICOM| **D**igital **I**maging and **CO**mmunications in **M**edicine – an universal standard for Digital Imaging |
-| NEMA| **N**ational **E**lectronic **M**anufacturing **A**ssociation - An ANSI-accredited Standards Developing Organization. The DICOM Standard is managed by the Medical Imaging & Technology Alliance - a division of the NEMA.|
+| Spectrogram     | A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time.  |
+| Fourier Transform     | the Fourier transform is a transform that converts a function into a form that describes the frequencies present in the original function.  |
+| Seizure | A seizure is a sudden, uncontrolled burst of electrical activity in the brain. It can cause changes in behavior, movements, feelings and levels of consciousness.|
 
-## About YaDV
-YaDV is a web-based DICOM Viewer for PACS enables Radiologist to diagnoses, viewing, and transmitting medical images. 
+Seizure prediction is a critical area of research that aims to improve the quality of life for individuals living with epilepsy. Epilepsy is a neurological disorder that affects millions of people worldwide, and seizures can have a significant impact on a person's daily life. Predicting when a seizure might occur can provide individuals with epilepsy and their caregivers with advanced warning, allowing them to take appropriate precautions and potentially reduce the risk of injury. In recent years, machine learning and artificial intelligence have shown promise in accurately predicting seizures before they occur. In this project, we aim to develop a model that can predict seizures with high accuracy, using data from wearable devices, Mindwave Neurosky.
 
-## What problem will YaDV solves?
-* YaDV is an DICOM viewer greatly facilitates the day-to-day of cardiologists, traumatologist, oncologists, etc. and most importantly, it improves the healthcare and service to patients.
-* YaDV support different image processing abilities and advanced functions. Besides image visualisation YaDV can take measurements and convert images to other formats.
-* YaDV provides 3D image viewing for the surgical planning
-What makes YaDV different: One stop solution for COVID Analysis DICOM format, 3D object view, Image Classification and in future will add hand gesture based DICOM image processing.
 
-## DICOM Overview
-* DICOM stands for Digital Imaging and COmmunications in Medicine – an universal standard for Digital Imaging.
-* DICOM is a specification for the creation, transmission, and storage of digital medical image and report data. 
-* Another important acronym that seemingly all DICOM vendors plug into their names is PACS (Picture Archiving and Communication Systems).
-* PACS are medical systems (consisting of necessary hardware and software) built to run digital medical imaging. They comprise:
-* - Modalities: Digital image acquisition devices, such as CT scanners or ultrasound.
-* - Digital image archives: Where the acquired images are stored.
-* - Workstations: Where radiologists view (“read”) the images. (YaDV)
 
-## YaDV Architecture
-![YaDV Architecture](https://github.com/prahalad12345/yadv-dicom-imageprocessing/blob/d59ea81a3effaf9aedf32e620340776292bbfefa/images/yadvArchitecture.png)
+## Mindwave Neurosky
+![YaDV Architecture](https://www.researchgate.net/profile/Kishore-Kashyap/publication/335799153/figure/fig1/AS:802856919654400@1568427414660/Neurosky-MindWave-Mobile-EEG-Headset-It-resides-five-main-parts-namely-Rubber-sensor.jpg)
 
-## YaDV Module Structure
-![YaDV Architecture](https://github.com/prahalad12345/yadv-dicom-imageprocessing/blob/d59ea81a3effaf9aedf32e620340776292bbfefa/images/yadvModule.png)
 
 ## Core Capabilities
 1. Load and View DICOM Image
