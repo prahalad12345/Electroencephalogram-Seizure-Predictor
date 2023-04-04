@@ -25,7 +25,7 @@ Seizure prediction is a critical area of research that aims to improve the quali
 
 ## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
-
+* Dataset - [dataset](https://www.kaggle.com/competitions/seizure-prediction/data).
 * Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
 * Python - [Download & Install Python3](https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/) - Minimum requirement 3.8.x
 * Pybluez - [Bluetooth Configuration](https://github.com/pybluez/pybluez)
