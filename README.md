@@ -35,8 +35,8 @@ Make sure you have installed all of the following prerequisites on your developm
 
 Refer each of the code files to check on the modules
 
-## Running YaDV
-YaDV can be executed used following command:
+## Running Electroencephalogram-Seizure-Predictor
+Electroencephalogram-Seizure-Predictor can be executed used following command:
 
 ```bash
 python mindwavechecker.py
